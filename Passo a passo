@@ -1,0 +1,22 @@
+# Loja_Crud-
+um sistema de gerenciamento de estoque e vendas de fácil uso 
+-> **regra de negocios**
+A aplicação deve ser simples e de facil aprendizagem e precisara contar com as seguintes funcionalidades 
+* o sistema deve ser de facil integração para varios tipos de comercio de pequeno porte 
+* login e senha de funcionarios 
+* acesso restrito a todas as partes do programa que apenas funcionarios de cargos mais altos podem acessar 
+* cadastro de clientes 
+* porcentual de descontos 
+* aba de cadastro de produtos 
+* aba de cadastro de serviços 
+* emissão de notas de serviços 
+* emição de notas de produtos 
+* os produtos devem contar com um id para controle de estoque 
+* o sistema deve mandar um aviso se o estoque do produto estiver baixo 
+* os servicos devem conter um id e um responsavel 
+
+-> **modelagem do sistema**
+* **diagrama de casos de uso**
+
+aba de atendimento ao cliente 
+![[Pasted image 20230222111607.png]]
